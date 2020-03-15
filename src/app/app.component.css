@@ -1,0 +1,21 @@
+.header {
+    background-color: #940c00;
+  }
+
+  .dropdown-bg {
+    background-color: #940c00;
+  }
+
+  .dropdown-item {
+    color: aliceblue;
+  }
+
+  .dropdown-item:hover {
+    background-color: #eb7a11;
+  }
+
+  .img-position{
+    border-radius: 0px 0px 10px 10px;
+    position: relative;
+    margin-top: -26px;
+  }

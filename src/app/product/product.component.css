@@ -1,19 +1,3 @@
-.header {
-    background-color: #940c00;
-  }
-
-  .dropdown-bg {
-    background-color: #940c00;
-  }
-
-  .dropdown-item {
-    color: aliceblue;
-  }
-
-  .dropdown-item:hover {
-    background-color: #eb7a11;
-  }
-
   .card{
     border-radius: 20px!important;
   }
@@ -59,10 +43,4 @@
   font-size:2.5vw;
   text-align: center;
   color: #940c00;
-}
-
-.img-position{
-  border-radius: 0px 0px 10px 10px;
-  position: relative;
-  margin-top: -26px;
 }
